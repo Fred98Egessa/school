@@ -25,7 +25,7 @@ img{
 	width:100%;
 }
 #header{
-	background:url(../images/bg-header.npg.jpg) repeat-x center 80px;
+	background:url(../images/bg-header.npg.jpg  style="max-width: 100%;") repeat-x center 80px;
 	height:auto;
 	overflow:hidden;
 	position:relative;
